@@ -1,0 +1,39 @@
+Unity Editor version:    2020.3.17f1 (a4537701e4ab)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.6 (Build 20G165)
+Darwin version:          20.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Volumes/Jane/2020.3.17f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+/Volumes/Jane/GitHub/RowingRush_MultiPlay/RowingRush
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+49939
+Successfully changed project path to: /Volumes/Jane/GitHub/RowingRush_MultiPlay/RowingRush
+/Volumes/Jane/GitHub/RowingRush_MultiPlay/RowingRush
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 6168.02 ms, found 3 plugins.
+Preloading 1 native plugins for Editor in 166.78 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path /Volumes/Jane/2020.3.17f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Volumes/Jane/GitHub/RowingRush_MultiPlay/RowingRush/Assets
+GfxDevice: creating device client; threaded=0
+2021-10-11 01:59:40.221 Unity[62885:1554664] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6100 (low power)
+2021-10-11 01:59:40.221 Unity[62885:1554664] Metal devices available: 1
+2021-10-11 01:59:40.221 Unity[62885:1554664] 0: Intel(R) Iris(TM) Graphics 6100 (low power)
+2021-10-11 01:59:40.221 Unity[62885:1554664] Using device Intel(R) Iris(TM) Graphics 6100 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6100
