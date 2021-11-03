@@ -1,0 +1,28 @@
+Unity Editor version:    2020.3.17f1 (a4537701e4ab)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.6 (Build 20G165)
+Darwin version:          20.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Volumes/Jane/2020.3.17f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker28
+-projectPath
+/Volumes/Jane/RowingRush_hanium_android-main/RowingRush_multiplay
+-logFile
+Logs/AssetImportWorker28.log
+-srvPort
+50461
+Successfully changed project path to: /Volumes/Jane/RowingRush_hanium_android-main/RowingRush_multiplay
+/Volumes/Jane/RowingRush_hanium_android-main/RowingRush_multiplay
+Using Asset Import Pipeline V2.
